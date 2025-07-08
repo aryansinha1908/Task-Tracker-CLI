@@ -29,5 +29,3 @@ task-cli list done
 task-cli list todo
 task-cli list in-progress
 
-
-meow meow meow
